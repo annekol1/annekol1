@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annekol1
-- 🌱 I’m currently a student studying computer science and math at the UMN
+- 🌱 I’m currently a student studying computer science and math
 - 📫 Reach me through email: kolsa220@gmail.com
 
 <!---
